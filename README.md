@@ -14,5 +14,6 @@ Features:
   - Slug automatically generated from title
   - Returns a wrapped object or a list of objects
   - Initial seed provided
+  - To get post by slug, just add the slug to the url
 
 
