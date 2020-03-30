@@ -17,4 +17,7 @@ Features:
   - To get post by slug, just add the slug to the url
   - To filter posts by tag, add ?tag=yourtaghere to url
 
+The default url for posts is https://localhost:44361/api/posts
+For tags https://localhost:44361/api/tags
+
 
